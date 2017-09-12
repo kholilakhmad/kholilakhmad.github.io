@@ -3,7 +3,7 @@
 ## 3145140590
 
 <div align="center">
-  <img src="img/home.png" height="500" width="300" />
+  <img src="/img/home.png" height="500" width="300" />
   <p>Unblock me</p>
 </div>
 
@@ -41,14 +41,14 @@
 <p align="justify">Bermain dengan tantangan, yaitu jumlah perpindahanblock untuk mengeluarkan block merah dan terdapat achievement berupa bintang. Semakin sedikit jumlah block yang berpindah, maka semakin besar kemungkinan mendapat tiga bintang.  Motto dari mode ini adalah "Master your puzzle skill". Seperti halnya relax mode, pada mode ini juga terdapat sub katgori, yaitu beginner, intermediatae, advance, expert, dan original free.</p>
 
 <div align="center">
-  <img src="" height="500" width="300" />
+  <img src="/img/12.jpg" height="500" width="300" />
   <p>Gumballs & Dungeons</p>
 </div>
 
 <p align="justify"></p>
 
 <div align="center">
-  <img src="" height="500" width="300" />
+  <img src="/img/relax.jpg" height="500" width="300" />
   <p>Unblock me map</p>
 </div>
 
@@ -63,7 +63,7 @@
 <p align="justify"></p>
 
 <div align="center">
-  <img src="" height="500" width="300" />
+  <img src="/img/relax.jpg" height="500" width="300" />
   <p>Unblock me</p>
 </div>
 
