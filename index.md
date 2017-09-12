@@ -52,13 +52,15 @@
   <p>relax</p>
 </div>
 
+## Player
+<p align="justify"></p>
+<p align="justify"></p>
+<p align="justify"></p>
+<p align="justify"></p>
+<p align="justify"></p>
+<p align="justify"></p>
+
 ## Conclusions
-<p align="justify"></p>
-<p align="justify"></p>
-<p align="justify"></p>
-<p align="justify"></p>
-<p align="justify"></p>
-<p align="justify"></p>
 
 <p align="justify"></p>
 
