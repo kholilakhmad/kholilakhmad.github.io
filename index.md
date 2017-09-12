@@ -51,22 +51,23 @@
   <img src="/img/relax.jpg" height="200" width="75" />
   <p>relax</p>
 </div>
-•dari segi Player
-	<p align="justify">Dari Segi player game ini sangat menarik untuk di mainkan, banyak fitur disana yang dapat dimainkan seperti:</p >
-	<p align="justify">Mode Multiplayer, Mainkan Unblock Me bersaing melawan teman Anda atau sesama Unblocker dari seluruh dunia</p>
-	<p align="justify">Teka-teki Harian, Tingkatkan permainan Unblock Me Anda dengan teka-teki harian yang disajikan setiap hari saat Anda membuka gamenya.</p>
-	<p align="justify">Hadiah Harian, Butuh banyak petunjuk? Gampang, dapatkan hingga 2 petunjuk setiap hari dengan membuka Unblock Me</p>
-	<p align="justify">Sinkronkan Atau Transfer Kemajuan Permaianan antar perangkat dengan menggunakan Akun Google Play yang sama</p>
-	<p align="justify">4 rentang tingkat kesulitan mulai dari Pemula hingga Ahli</p>
-	<p align="justify">16.000 teka-teki Membuka Halangan yang dapat Anda nikmati, akan jadi kisah yang panjang untuk menyelesaikan seluruh teka-teki yang adiktif ini</p>
-	<p align="justify">Dua mode permainan, Mode Santai dan Mode Tantangan</p>
-	<p align="justify">Sistem Peringkat untuk menjaga Anda tetap tertantang dan siap untuk menemukan solusi terbaik</p>
-	<p align="justify">21 Prestasi, cobalah mengumpulkan seluruh prestasi</p>
-	<p align="justify">Lacak semua teka-teki yang telah Anda bersihkan</p>
-	<p align="justify">Sistem petunjuk yang akan menuntun Anda sepanjang teka-teki</p>
-	<p align="justify">Pembelian dalam aplikasi sehingga Anda dapat membeli lebih banyak petunjuk ketika Anda memerlukannya</p>
-	<p align="justify">Sistem urungkan</p>
-	<p align="justify">Kapasitas yang kecil sehingga tidak memakan memori</p>
+## dari segi Player
+	<p align="justify">Dari Segi player game ini sangat menarik untuk di mainkan, banyak fitur disana yang dapat dimainkan seperti:
+Mode Multiplayer, Mainkan Unblock Me bersaing melawan teman Anda atau sesama Unblocker dari seluruh dunia
+	Teka-teki Harian, Tingkatkan permainan Unblock Me Anda dengan teka-teki harian yang disajikan setiap hari saat Anda membuka gamenya.
+	Hadiah Harian, Butuh banyak petunjuk? Gampang, dapatkan hingga 2 petunjuk setiap hari dengan membuka Unblock 
+	Sinkronkan Atau Transfer Kemajuan Permaianan antar perangkat dengan menggunakan Akun Google Play yang sama
+	4 rentang tingkat kesulitan mulai dari Pemula hingga Ahli
+	16.000 teka-teki Membuka Halangan yang dapat Anda nikmati, akan jadi kisah yang panjang untuk menyelesaikan seluruh teka-teki yang adiktif ini
+	Dua mode permainan, Mode Santai dan Mode Tantangan
+	Sistem Peringkat untuk menjaga Anda tetap tertantang dan siap untuk menemukan solusi terbaik
+    21 Prestasi, cobalah mengumpulkan seluruh prestasi
+	Lacak semua teka-teki yang telah Anda bersihkan
+	Sistem petunjuk yang akan menuntun Anda sepanjang teka-teki
+	Pembelian dalam aplikasi sehingga Anda dapat membeli lebih banyak petunjuk ketika Anda memerlukannya
+	Sistem urungkan
+	Kapasitas yang kecil sehingga tidak memakan memori</p>
+	
 	<div align="center">
   <img src="/img/relax.jpg" height="200" width="75" />
 
