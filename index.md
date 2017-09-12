@@ -25,7 +25,7 @@
 <p align="justify">Jika block memiliki posisi vertikal seperti pada gambar 3, maka block hanya digulirkan ke atas atau ke bawah.</p>
 <div align="center">
   <img src="/img/123.jpg" height="200" width="150" />
-  <p>challenge</p>
+  <p>Unblock me</p>
   </div>
   
 ## Design
@@ -67,7 +67,9 @@
 
 ## Conclusions
 
-<p align="justify"></p>
+<p align="justify">Game unblock me ini adalah 2D meskipun demikian game yang berplatfrom android ini sangatlah menarik untuk mainkan.</p>
+<p align="justify">game yang di develop oleh Kiragames Co,. Lto ini smapai saat ini sudah mencapai 50 juta download, terbukti bahwa game ini sangat laku dipasaran</p>
+<p align="justify">Keasyikan bermain game ini adalah saat kita menemukan jalan buntu untuk menggeser balok-baloknya</p>
 
 <div align="center">
   <img src="/img/relax.jpg" height="200" width="150" />
