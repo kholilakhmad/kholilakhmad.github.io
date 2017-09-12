@@ -24,8 +24,8 @@
 <p align="justify">Jika block tersebut berbentuk horizontal, maka yang dilakukan adalah menggulirkan ke kanan atau ke kiri.</p>
 <p align="justify">Jika block memiliki posisi vertikal seperti pada gambar 3, maka block hanya digulirkan ke atas atau ke bawah.</p>
 <div align="center">
-  <img src="" height="500" width="300" />
-  <p>GamePlay Gumballs & Dungeons</p>
+  <img src="/img/123.jpg" height="default" width="default" />
+  <p>challenge</p>
   </div>
   
 ## Design
@@ -42,14 +42,14 @@
 
 <div align="center">
   <img src="/img/12.jpg" height="500" width="300" />
-  <p>Gumballs & Dungeons</p>
+  <p>challenge</p>
 </div>
 
 <p align="justify"></p>
 
 <div align="center">
   <img src="/img/relax.jpg" height="500" width="300" />
-  <p>Unblock me map</p>
+  <p>relax</p>
 </div>
 
 ## Conclusions
@@ -67,4 +67,3 @@
   <p>Unblock me</p>
 </div>
 
-<img src="" height="300" width="100%"/>
