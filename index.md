@@ -39,8 +39,8 @@
 <p align="justify">Bermain dengan tantangan, yaitu jumlah perpindahanblock untuk mengeluarkan block merah dan terdapat achievement berupa bintang. Semakin sedikit jumlah block yang berpindah, maka semakin besar kemungkinan mendapat tiga bintang.  Motto dari mode ini adalah "Master your puzzle skill". Seperti halnya relax mode, pada mode ini juga terdapat sub katgori, yaitu beginner, intermediatae, advance, expert, dan original free.</p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/30854454/30279155-9c7ffe60-9736-11e7-840c-8f7d0dd2a9e8.png" height="500" width="300" />
-  <p>Gumballs & Dungeons Fractions</p>
+  <img src="" height="500" width="300" />
+  <p>Gumballs & Dungeons</p>
 </div>
 
 <p align="justify"></p>
@@ -65,4 +65,4 @@
   <p>Unblock me</p>
 </div>
 
-<img src="gumball1.png" height="300" width="100%"/>
+<img src="" height="300" width="100%"/>
