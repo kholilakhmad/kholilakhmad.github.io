@@ -24,7 +24,7 @@
 <p align="justify">Jika block tersebut berbentuk horizontal, maka yang dilakukan adalah menggulirkan ke kanan atau ke kiri.</p>
 <p align="justify">Jika block memiliki posisi vertikal seperti pada gambar 3, maka block hanya digulirkan ke atas atau ke bawah.</p>
 <div align="center">
-  <img src="/img/123.jpg" height="default" width="default" />
+  <img src="/img/123.jpg" height="500" width="300" />
   <p>challenge</p>
   </div>
   
@@ -51,10 +51,27 @@
   <img src="/img/relax.jpg" height="500" width="300" />
   <p>relax</p>
 </div>
+##Dari Segi Player
+	<p align="justify">Dari Segi player game ini sangat menarik untuk di mainkan, banyak fitur disana yang dapat dimainkan seperti:</p >
+	<p align="justify">* Mode Multiplayer, Mainkan Unblock Me bersaing melawan teman Anda atau sesama Unblocker dari seluruh dunia</p>
+	<p align="justify">* Teka-teki Harian, Tingkatkan permainan Unblock Me Anda dengan teka-teki harian yang disajikan setiap hari saat Anda membuka gamenya.</p>
+	<p align="justify">* Hadiah Harian, Butuh banyak petunjuk? Gampang, dapatkan hingga 2 petunjuk setiap hari dengan membuka Unblock Me</p>
+	<p align="justify">* Sinkronkan Atau Transfer Kemajuan Permaianan antar perangkat dengan menggunakan Akun Google Play yang sama</p>
+	<p align="justify">* 4 rentang tingkat kesulitan mulai dari Pemula hingga Ahli</p>
+	<p align="justify">* 16.000 teka-teki Membuka Halangan yang dapat Anda nikmati, akan jadi kisah yang panjang untuk menyelesaikan seluruh teka-teki yang adiktif ini</p>
+	<p align="justify">* Dua mode permainan, Mode Santai dan Mode Tantangan</p>
+	<p align="justify">* Sistem Peringkat untuk menjaga Anda tetap tertantang dan siap untuk menemukan solusi terbaik</p>
+	<p align="justify">* 21 Prestasi, cobalah mengumpulkan seluruh prestasi</p>
+	<p align="justify">* Lacak semua teka-teki yang telah Anda bersihkan</p>
+	<p align="justify">* Sistem petunjuk yang akan menuntun Anda sepanjang teka-teki</p>
+	<p align="justify">* Pembelian dalam aplikasi sehingga Anda dapat membeli lebih banyak petunjuk ketika Anda memerlukannya</p>
+	<p align="justify">* Sistem urungkan</p>
+	<p align="justify">* Kapasitas yang kecil sehingga tidak memakan memori</p>
+
 
 ## Conclusions
-<p align="justify">Game ini mempunyai tampilan yang sederhana yakni hanya berupa balok-balok kayu, walaupun demikian game ini akan benar-benar menguji kemampuan berpikir</p>
-<p align="justify">game yang di develop Kiragames Co.,Ltd dan bergenre strategi ini telah rilis sejak tanggal 12-09-2014 ini sudah mencapai  </p>
+<p align="justify"></p>
+<p align="justify"></p>
 <p align="justify"></p>
 <p align="justify"></p>
 <p align="justify"></p>
@@ -63,7 +80,7 @@
 <p align="justify"></p>
 
 <div align="center">
-  <img src="/img/relax.jpg" height="500" width="300" />
+  <img src="/img/relax.jpg" height="400" width="200" />
   <p>Unblock me</p>
 </div>
 
