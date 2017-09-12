@@ -24,7 +24,7 @@
 <p align="justify">Jika block tersebut berbentuk horizontal, maka yang dilakukan adalah menggulirkan ke kanan atau ke kiri.</p>
 <p align="justify">Jika block memiliki posisi vertikal seperti pada gambar 3, maka block hanya digulirkan ke atas atau ke bawah.</p>
 <div align="center">
-  <img src="/img/123.jpg" height="500" width="300" />
+  <img src="/img/123.jpg" height="200" width="75" />
   <p>challenge</p>
   </div>
   
@@ -41,14 +41,14 @@
 <p align="justify">Bermain dengan tantangan, yaitu jumlah perpindahanblock untuk mengeluarkan block merah dan terdapat achievement berupa bintang. Semakin sedikit jumlah block yang berpindah, maka semakin besar kemungkinan mendapat tiga bintang.  Motto dari mode ini adalah "Master your puzzle skill". Seperti halnya relax mode, pada mode ini juga terdapat sub katgori, yaitu beginner, intermediatae, advance, expert, dan original free.</p>
 
 <div align="center">
-  <img src="/img/12.jpg" height="500" width="300" />
+  <img src="/img/12.jpg" height="200" width="75" />
   <p>challenge</p>
 </div>
 
 <p align="justify"></p>
 
 <div align="center">
-  <img src="/img/relax.jpg" height="500" width="300" />
+  <img src="/img/relax.jpg" height="200" width="75" />
   <p>relax</p>
 </div>
 •dari segi Player
@@ -68,7 +68,7 @@
 	<p align="justify">Sistem urungkan</p>
 	<p align="justify">Kapasitas yang kecil sehingga tidak memakan memori</p>
 	<div align="center">
-  <img src="/img/relax.jpg" height="500" width="300" />
+  <img src="/img/relax.jpg" height="200" width="75" />
 
 
 ## Conclusions
@@ -82,7 +82,7 @@
 <p align="justify"></p>
 
 <div align="center">
-  <img src="/img/relax.jpg" height="400" width="200" />
+  <img src="/img/relax.jpg" height="200" width="75" />
   <p>Unblock me</p>
 </div>
 
