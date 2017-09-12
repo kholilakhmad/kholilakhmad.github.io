@@ -1,43 +1,42 @@
-# Gumballs & Dungeons Review
-## kholil 
-## 3145141980
+#  Unblock me
+## kholil akhmad
+## 3145140590
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/30854454/30260585-7063c864-96f2-11e7-9bd5-d7d359ade281.jpg" height="500" width="300" />
-  <p>Gumballs & Dungeons</p>
+  <img src="" height="500" width="300" />
+  <p>Unblock me</p>
 </div>
 
-<p align="justify">Gumballs dan Dungeons salah satu permainan dengan karakter kartun berbentuk slime, karakter gumball yang imut dan elemen fantasi yang lebih realistis. Mungkin permainan ini, terlihat hanya seperti permainan yang menampilkan karakter-karakter lucu, tetapi tidak demikian. Gumballs & Dungeons memberikan begitu banyak hal yang bisa kita dapatkan seperti pada game RPG pada umumnya, namun dengan berbagai unsur yang menarik dan membuat pemainnya menjadi sangat adiktif.</p>
+<p align="justify">Unblock Me adalah permainan teka-teki sederhana dan adiktif. Tujuannya adalah membuka halangan bagi blok berwarna merah keluar dari papan dengan menggeser blok lain agar tidak menghalanginya, buka halangan dengan gerakan minimal. Unblock Me hadir dengan 4 tingkat kesulitan mencakup rentang Pemula hingga Ahli. Ada total 16.000 teka-teki, jumlah tertinggi dari teka-teki yang dapat Anda temukan dalam permainan apa saja, bernilai ratusan jam untuk terus menjadikan Anda tertantang dan kecanduan.</p>
 
-<p align="justify">Permainan Gumballs & Dungeons ini dapat diunduh gratis di Google Play Store dan iOS. Walaupun gratis tetapi game ini harus membayar beberapa kebutuhan tertentu untuk membuat karakter gumball semakin baik. Namun, jika kita serius memainkannya maka kita tidak membutuhkan uang untuk memainkannya dan disitulah letak keseruannya.</p>
+<p align="justify">Mode permainan dalam Unblock Me, dapat menantang diri sendiri atau memilih untuk berbaring dan santai sembari memecahkan teka-teki. Dalam mode Tantangan setiap teka-teki memiliki hadiah 3 bintang, menambahkan nilai bermain ulang sehingga dapat selalu mencoba untuk mendapatkan keseluruhan 3 bintang di setiap teka-teki. Sebuah sistem peringkat dan prestasi juga ditambahkan untuk menjadikan pemain lebih tertantang.</p>
 
-<p align="justify">Gumballs & Dungeons dikembangkan oleh perusahaan QCPlay. Game ini merupakan game strategi petualangan , kita memulai dengan satu gumball yaitu Adventurer Gumball lalu pergi berpetualang ke berbagai tempat untuk menemukan Gumball yang lain dan mendapatkan berbagai macam koleksi.</p>
+<p align="justify">Unblock Me dapat membantu Anda melatih otak dan menjaga Anda agar tetap fit secara mental setiap hari. Permainan ini adalah salah satu permainan gratis teratas selama 5 tahun dan telah menciptakan kategori permainan teka-teki Membuka Halangan yang kemudian diikuti oleh lainnya. </p>
 
 ## GamePlay
 
-<p align="justify">Core gameplay dari Gumballs & Dungeons adalah penjelajahan dungeon, dan game ini identik dengan game Dungelot. Setiap lantai dungeon ditutupi ubin atau papan tulis(slate) yang saling terhubung satu sama lain dalam grid-grid. Dari pintu masuk lantai, pemain harus membersihkan slate ini dengan mengetuknya untuk membuka apa yang mungkin ada di bawahnya bisa item, event, dan bahkan musuh. Tujuan di setiap lantai adalah untuk menemukan kunci yang akan membuka lantai berikutnya, turun sampai lantai akhir dimana boss harus dikalahkan.</p>
+<p align="justify"></p>
 
-<p align="justify">Meski tidak seperti game bergenre rogue-like, ada beberapa elemen rogue-like sangat familiar. Dungeons dibuat sangat acak, terutama di endless mode. Karakter - Gumballs, harus menyesuaikan diri setiap kali memasuki ruang dungeon, membuat kemajuan saat berada di dalam dungeon menjadi agar berjalan lancar. Menemukan dan mendapatkan upgrade yang permanen memungkinkan gumball memiliki kesempatan bertahan lebih baik dalam jangka waktu berikutnya. Gumballs juga berkembang di setiap deungon dengan membuka "title", yang memberikan buff atau kemampuan khusus selama jangka waktu tersebut.</p>
+<p align="justify"></p>
 
-<p align="justify">Gumballs & Dungeos juga dilengkapi dengan fitur idle, dimana pemain memungkinkan mendapatkan gold dan sumber daya selama pemain tersebut tidak sedang memainkan game. Dari sumber daya dan gold tersebut dapat dibuat sebuah potion atau peralatan yang bisa kita bawa ke dungeon untuk membantu meningkatkan gumball. </p>
+<p align="justify"></p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/30854454/30272525-19b40934-971f-11e7-88ce-24fcb4371f0e.png" height="500" width="300" />
+  <img src="" height="500" width="300" />
   <p>GamePlay Gumballs & Dungeons</p>
   </div>
   
 ## Design
   
-<p align="justify">Desain dari Gumballs & Dungeons sangat menarik, tak hanya untuk kalangan anak muda tetapi untuk semua umur. Terutama untuk desain tiap-tap karakter gumball yang dibagi setiap golongan, yaitu Aoluwei’s Blade, Canas’ Enlightenment, Ranger’s Song, dan Abyss’ Roar. Di tiap golongan tersebut terdapat berbagai macam gumball yang berbeda yang mewakili tiap golongannya seperti pembagian class job di game RPG lainnya.</p>
+<p align="justify">Game ini sebenarnya merupakan game 2D (dua dimensi) hanya saja gambar-gambar papan dan stage dibuat sedemikian rupa sehingga tampak seperti gambar 3D (tiga dimensi) grafisnya sudah cukup baik, bahkan ketika memainkannya ditempat yang lebar misalnya di tab ukuran 10” sekalipun gratisnya tetap oke.</p>
 
-•	Aoluwei’s Blade
-<p align="justify">Mewakili gumball yang suka berperang dan memiliki keterampilan seni bertarung yang tak tertandingi. Pada fraksi ini beberapa gumball mudah untuk didapatkan, karena saat kita memulai permainan, kita akan memulai dengan salah satu gumball dari fraksi ini yaitu Adventurer Gumball (protagonis).</p>
-•	Canas’ Enlightenment
-<p align="justify">Pada fraksi ini terdapat beberapa gumball dengan kemampuan sihir atau biasa disebut penyihir. Fraksi ini tidak terlalu populer oleh para pemain, namun menurut pribadi saya fraksi ini sangat kuat jika dibandingkan dengan fraksi yang sebelumnya Aoluwei’s Blade jika kita terus mengupgrade fraksi ini ketingkat yang lebih tinggi.</p>
-•	Ranger’s Song
-<p align="justify">Fraksi yang mewakili para pahlawan ini memiliki jenis-jenis gumball yang terbilang unik dan sangat populer dikalangan para pemain. Karena dari fraksi ini kita bisa membuat combo yang sangat kuat untuk menaklukan dungeon ke lantai yang lebih dalam, dan untuk mendapatkan gumball di fraksi ini masih terbilang mudah setelah Aoluwei’s Blade.</p>
-•	Abyss’ Roar
-<p align="justify">Sangat sulit untuk mendapatkan gumball-gumball di Abyss’ Roar, seperti kita harus mengikuti sebuah event, membayar dengan Gem, atau dengan donasi uang yang sangat banyak. Namun, fraksi ini adalah yang paling kuat diantara fraksi-fraksi yang lain.</p>
+<p align="justify">Warnanya lembut dan jelas, objek-objeknya tampak presisi dan tidak kasar sehingga mata akan nyaman ketika memandang dan memainkan game ini.</p>
+•Relax mode  
+
+<p align="justify">Mode bermain tanpa tantangan, mengeluarkan block merah dari papan dan melanjutkan level. Relax mode juga memiliki sub mode, yaitu Beginner, intermediate, advance, expert, dan original free. Setiap sub kategori tersebut juga memiliki sub kategori lagi, sebelum pengguna menemukan seperangkat level dari permainan ini.</p>
+
+•Challenge mode 
+<p align="justify">Bermain dengan tantangan, yaitu jumlah perpindahanblock untuk mengeluarkan block merah dan terdapat achievement berupa bintang. Semakin sedikit jumlah block yang berpindah, maka semakin besar kemungkinan mendapat tiga bintang.  Motto dari mode ini adalah "Master your puzzle skill". Seperti halnya relax mode, pada mode ini juga terdapat sub katgori, yaitu beginner, intermediatae, advance, expert, dan original free.</p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/30854454/30279155-9c7ffe60-9736-11e7-840c-8f7d0dd2a9e8.png" height="500" width="300" />
