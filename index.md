@@ -15,12 +15,14 @@
 
 ## GamePlay
 
-<p align="justify"></p>
+<p align="justify">Secara umum adalah membuat block yang berwarna merah keluar dari board (papan bermain). Gunakan jari untuk melakukan kontrol pada block. </p>
 
-<p align="justify"></p>
+<p align="justify">Pemain hanya perlu menggulirkan block-block lain agar tidak menghalangi jalan block merah keluar dari board. </p>
 
-<p align="justify"></p>
+<p align="justify">Block terdiri atas empat macam, blockvertikal kecil, vertikal besar, horizontal kecil dan horizontal besar.</p>
 
+<p align="justify">Jika block tersebut berbentuk horizontal, maka yang dilakukan adalah menggulirkan ke kanan atau ke kiri.</p>
+<p align="justify">Jika block memiliki posisi vertikal seperti pada gambar 3, maka block hanya digulirkan ke atas atau ke bawah.</p>
 <div align="center">
   <img src="" height="500" width="300" />
   <p>GamePlay Gumballs & Dungeons</p>
@@ -51,8 +53,8 @@
 </div>
 
 ## Conclusions
-<p align="justify"></p>
-<p align="justify"></p>
+<p align="justify">Game ini mempunyai tampilan yang sederhana yakni hanya berupa balok-balok kayu, walaupun demikian game ini akan benar-benar menguji kemampuan berpikir</p>
+<p align="justify">game yang di develop Kiragames Co.,Ltd dan bergenre strategi ini telah rilis sejak tanggal 12-09-2014 ini sudah mencapai  </p>
 <p align="justify"></p>
 <p align="justify"></p>
 <p align="justify"></p>
