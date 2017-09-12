@@ -55,13 +55,12 @@
 ## Player
 <p align="justify">game ini mempunyai banyak fitur sehingga player dimanjakan dengan fitur-fitur yang ada</p>
 <p align="justify">berikut fitur yang terdapat dalam game</p>
-<p align="justify">* Mode Multiplayer, Mainkan Unblock Me bersaing melawan teman Anda atau sesama Unblocker dari seluruh dunia
-* Teka-teki Harian, Tingkatkan permainan Unblock Me Anda dengan teka-teki harian yang disajikan setiap hari saat Anda membuka gamenya.
-* Hadiah Harian, Butuh banyak petunjuk? Gampang, dapatkan hingga 2 petunjuk setiap hari dengan membuka Unblock Me
-* Sinkronkan Atau Transfer Kemajuan Permaianan antar perangkat dengan menggunakan Akun Google Play yang sama
-* 4 rentang tingkat kesulitan mulai dari Pemula hingga Ahli
-* 16.000 teka-teki Membuka Halangan yang dapat Anda nikmati, akan jadi kisah yang panjang untuk menyelesaikan seluruh teka-teki yang adiktif ini
-</p>
+<p align="justify">* Mode Multiplayer, Mainkan Unblock Me bersaing melawan teman Anda atau sesama Unblocker dari seluruh dunia</p>
+<p align="justify">* Teka-teki Harian, Tingkatkan permainan Unblock Me Anda dengan teka-teki harian yang disajikan setiap hari saat Anda membuka gamenya.</p>
+<p align="justify">* Hadiah Harian, Butuh banyak petunjuk? Gampang, dapatkan hingga 2 petunjuk setiap hari dengan membuka Unblock Me</p>
+<p align="justify">* Sinkronkan Atau Transfer Kemajuan Permaianan antar perangkat dengan menggunakan Akun Google Play yang sama</p>
+<p align="justify">* 4 rentang tingkat kesulitan mulai dari Pemula hingga Ahli</p>
+<p align="justify">* 16.000 teka-teki Membuka Halangan yang dapat Anda nikmati, akan jadi kisah yang panjang untuk menyelesaikan seluruh teka-teki yang adiktif ini</p>
 <p align="justify"></p>
 <p align="justify"></p>
 <p align="justify"></p>
