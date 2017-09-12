@@ -3,7 +3,7 @@
 ## 3145140590
 
 <div align="center">
-  <img src="home.png" height="500" width="300" />
+  <img src="img/home.png" height="500" width="300" />
   <p>Unblock me</p>
 </div>
 
